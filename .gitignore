@@ -3,6 +3,8 @@
 
 OLD/
 license.txt
+*.pem
+*.key
 
 
 # Byte-compiled / optimized / DLL files
