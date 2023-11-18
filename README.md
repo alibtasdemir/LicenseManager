@@ -20,7 +20,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-There is a code base for your assignment. You can find `Client.py` and `Server.py` files and start coding.
+There is a code base for your assignment. You can find `Client.py` and `LicenseManager.py` files and start coding.
 Also, you can find directions to set up your environment with the required Python libraries.
 
 
